@@ -5,5 +5,5 @@ SELECT
 FROM
   employee
 LIMIT
-  5
+  6
 ;
